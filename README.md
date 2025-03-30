@@ -63,7 +63,9 @@ Cursor重置工具是一个专为Cursor编辑器用户设计的工具软件，�
 ## 🚀 下载
 
 ### Windows 版本
-- [GitHub Release](https://github.com/yourusername/CursorTool/releases) - 获取最新版本
+
+- [GitHub Release](https://github.com/xiaocheng121380/cursorTool/releases) - 获取最新版本
+- [Gitee Release](https://gitee.com/xiaocheng121380/cursorTool/releases) - 获取最新版本
 
 ## 联系方式
 
