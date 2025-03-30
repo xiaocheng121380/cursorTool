@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>images/cursor_logo.png</file>
+        <file>images/cursor_logo.ico</file>
+    </qresource>
+</RCC> 

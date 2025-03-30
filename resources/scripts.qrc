@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/scripts">
+        <file>scripts/registry_modifier.ps1</file>
+    </qresource>
+</RCC> 
