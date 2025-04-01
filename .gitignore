@@ -87,4 +87,32 @@ build-*/
 
 # User-specific files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Qt 编译生成的文件
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.moc
+moc_*.cpp
+moc_*.h
+*.ui
+*.qrc
+*.ts
+*.qm
+
+# Qt 构建目录
+build/
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 应用程序
+cursorTool.app/
+cursorTool.exe
+cursorTool 

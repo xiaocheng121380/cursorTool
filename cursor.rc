@@ -1,4 +1,0 @@
-#include <windows.h>
-
-1 RT_MANIFEST "cursor.manifest" 
-IDI_ICON1 ICON "resources/images/cursor_logo.ico" 
