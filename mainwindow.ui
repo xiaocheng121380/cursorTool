@@ -22,6 +22,68 @@
       </property>
      </widget>
     </item>
+    <item>
+     <widget class="QLabel" name="gpt4Label">
+      <property name="text">
+       <string>GPT-4: 0/0 次 (0%)</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QProgressBar" name="gpt4ProgressBar">
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="gpt35Label">
+      <property name="text">
+       <string>GPT-3.5: 0/0 次 (0%)</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QProgressBar" name="gpt35ProgressBar">
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="gpt432kLabel">
+      <property name="text">
+       <string>GPT-4-32k: 0/0 次 (0%)</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QProgressBar" name="gpt432kProgressBar">
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="tokenInfoLabel">
+      <property name="text">
+       <string>Tokens: GPT-4: 0, GPT-3.5: 0, GPT-4-32k: 0</string>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="billingCycleLabel">
+      <property name="text">
+       <string>计费周期: 暂无数据</string>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
