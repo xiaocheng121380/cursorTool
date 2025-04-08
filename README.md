@@ -1,7 +1,7 @@
 # Cursor重置工具
 
 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=-5rT6zS5nr0NqkUiphSPYHC2769qs21x&jump_from=webapi&authKey=PfidbLKACpBMOLaKrgqsJ9HS61vL2SaFr6KL2WW22njec2wxIZNTBok7wqr50lVt"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="Cursor技术交流群" title="Cursor技术交流群"></a>
-
+![输入图片说明](resources/images/%E5%9B%BE%E7%89%87.png)
 ## 项目介绍
 
 Cursor重置工具是一个专为Cursor编辑器用户设计的工具软件，帮助用户重置Cursor编辑器的试用状态，恢复使用体验。该工具通过清理Cursor编辑器的本地配置数据和修改系统标识符，使Cursor能够以全新状态启动。
